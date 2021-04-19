@@ -1,0 +1,13 @@
+tr {
+    color: white;
+    text-align: left;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    font-size: 1.4em;
+}
+
+.tamano {
+    height: 600px;
+}
+
